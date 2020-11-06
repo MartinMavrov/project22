@@ -1,0 +1,60 @@
+.body
+{
+    background-color:/*rgb(255, 196, 0);*/rgb(116, 255, 74);
+}
+.container-one
+{
+    background: url(/images/medsaladup.jpg)no-repeat;
+    background-size: cover;
+    height: 60vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.container-two
+{
+    background: url(/images/saladbarup.jpg)no-repeat;
+    background-size: cover;
+    height: 60vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.container-three
+{
+    background: url(/images/greensup.jpg)no-repeat;
+    background-size: cover;
+    height: 60vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.jumbotron {
+    position: relative;
+    max-width: 1400px; 
+    margin: 0 auto; 
+    
+  }
+  
+  .tag{
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0); 
+    background: rgba(0, 0, 0, 0.5); 
+    color: #f1f1f1; 
+    width: 100%; 
+    padding: 10px; 
+    
+  }
+  .h1
+  {
+      text-decoration: underline;
+  }
+  
+.tag
+{
+    margin:25px,10px,5px,0px;
+    padding: 20px;
+}
+.badge
+{
+    
+    height: 45px;
+}

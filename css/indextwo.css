@@ -1,0 +1,23 @@
+.body
+{
+
+  background: url(/images/saladbarup.jpg) no-repeat;
+  background-size: cover;
+}
+.thead
+{
+  background-color:rgb(83, 236, 22);
+}
+.tbody
+{
+  background-color:rgba(211, 211, 211, 0.712);
+}
+.icon
+{
+  width: 20%;
+}
+.badge
+{
+    
+    height: 45px;
+}

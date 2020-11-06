@@ -1,0 +1,26 @@
+
+.one
+{
+    background-color:rgba(211, 211, 211, 0.712);
+    
+  }
+
+  .body
+  {
+    
+    background: url(/images/saladbarup.jpg)no-repeat;
+    background-size: cover;
+    
+  }
+  .badge-two
+{
+    
+    height: 35px;
+    
+    margin-left: 50px;
+    border-radius: 10%;
+    
+    text-decoration: none;
+
+    
+}

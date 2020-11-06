@@ -1,0 +1,27 @@
+.h1,p
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+    margin-right: 5px;
+    
+}
+.one
+{
+
+  background: url(/images/saladbowlup.jpg) no-repeat;
+  background-size: cover;
+}
+.container-one
+{
+    background-color:rgba(211, 211, 211, 0.712);
+
+}
+.two
+{
+    background-color:rgba(211, 211, 211, 0.712);
+}
+.badge
+{
+    
+    height: 45px;
+}

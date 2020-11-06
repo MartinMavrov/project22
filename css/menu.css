@@ -1,0 +1,32 @@
+
+.body
+{
+
+  background: url(/images/saladbarup.jpg) no-repeat;
+  background-size: cover;
+}
+
+
+.container
+{
+    background-color:rgba(211, 211, 211, 0.712);
+
+}
+.media
+{
+margin-left: 18px;
+margin-right: 5px;
+
+
+}
+.h1
+{
+  text-decoration: underline;
+  
+}
+.badge
+{
+    
+    height: 45px;
+}
+

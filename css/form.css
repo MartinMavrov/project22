@@ -1,0 +1,24 @@
+
+
+
+
+.container {
+    max-width: 960px;
+  }
+  
+  .lh-condensed { line-height: 1.25; }
+
+
+
+  .badge-two
+  {
+      
+      height: 35px;
+      
+    
+      border-radius: 10%;
+      
+      text-decoration: none;
+  
+      
+  }
